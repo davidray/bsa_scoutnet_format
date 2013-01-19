@@ -9,6 +9,22 @@ Record Type
 * 021 - award record
 * 900 - end sentinal
 
+Record Format 001
+-----------------
+001,{record #},A,{report date},210842,PackMaster ME,02.00
+
+Record Format 020
+-----------------
+020,{record #},Pack,{unit #},{charter expiration YYYYMM},{District},{City},{State},{Zip},{Chartered Org},{Cubmaster 1st name},{Cubmaster middle},{Cubmaster Last},{cubmaster address 1},{cubmaster line 2},,,{cm city},{cm state},{cm zip},US,{cm area code},{cm prefix},{cm last 4},,,,,,{report date},{need by date},{board of review date},
+
+Record Format 021
+-----------------
+021,{record #},{Scout last},{scout middle},{scout first},{birthday - YYYYMMDD},{SSN},{award date},{award code},
+
+Record Format 900
+-----------------
+900,{record #}
+
 Example File
 ============
 001,1,A,20120919,215325,PackMaster ME,02.00,

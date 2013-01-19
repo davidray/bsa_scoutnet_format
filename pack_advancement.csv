@@ -1,7 +1,0 @@
-001,{record #},A,{report date},210842,PackMaster ME,02.00
-020,{record #},Pack,{unit #},{charter expiration YYYYMM},{District},{City},{State},{Zip},{Chartered Org},{Cubmaster 1st name},{Cubmaster middle},{Cubmaster Last},{cubmaster address 1},{cubmaster line 2},,,{cm city},{cm state},{cm zip},US,{cm area code},{cm prefix},{cm last 4},,,,,,{report date},{need by date},{board of review date},
-021,{record #},{Scout last},{scout middle},{scout first},{birthday - YYYYMMDD},{SSN},{award date},{award code},
-021,{record #},{Scout last},{scout middle},{scout first},{birthday - YYYYMMDD},{SSN},{award date},{award code},
-021,{record #},{Scout last},{scout middle},{scout first},{birthday - YYYYMMDD},{SSN},{award date},{award code},
-021,{record #},{Scout last},{scout middle},{scout first},{birthday - YYYYMMDD},{SSN},{award date},{award code},
-900,{record #}
