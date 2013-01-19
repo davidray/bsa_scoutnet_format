@@ -1,6 +1,6 @@
 General Format
 ==============
-{Record Type},{Row #}, {data}
+    {Record Type},{Row #}, {data}
 
 Record Type
 ===========

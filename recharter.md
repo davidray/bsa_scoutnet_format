@@ -1,6 +1,6 @@
 General Format
 ==============
-{Record Type},{Row #}, {data}
+    {Record Type},{Row #}, {data}
 
 Record Types
 ============
@@ -14,7 +14,7 @@ Record Types
 
 Record Type 001
 ---------------
-001,1,R,Date Created (YYYYMMDD),102808,TroopMaster ME,02.00,
+    001,1,R,Date Created (YYYYMMDD),102808,TroopMaster ME,02.00,
 
 Record Type 010
 ---------------
