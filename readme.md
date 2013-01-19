@@ -8,6 +8,11 @@ About this Repository
 
 This repo is dedicated to understanding the ScoutNET file formats. 
 
+What can I do with this information?
+====================================
+
+Whatever you want, within the constraints of legality and ethics.
+
 How to Contribute
 =================
 

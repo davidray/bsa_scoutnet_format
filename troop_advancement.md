@@ -4,10 +4,11 @@ General Format
 
 Record Type
 ===========
-001 - header
-020 - unit record
-021 - award record
-900 - end sentinal
+
+*  001 - header
+*  020 - unit record
+*  021 - award record
+*  900 - end sentinal
 
 Example File
 ============

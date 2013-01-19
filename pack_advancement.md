@@ -4,10 +4,10 @@ General Format
 
 Record Type
 ===========
-001 - header
-020 - unit record
-021 - award record
-900 - end sentinal
+* 001 - header
+* 020 - unit record
+* 021 - award record
+* 900 - end sentinal
 
 Example File
 ============
@@ -40,29 +40,29 @@ Example File
 
 Award Codes for Cub Scout Packs
 ===============================
-RC - Bobcat
-RI - Tiger
-RW - Wolf
-RB - Bear
-RR - Webelos
-RA - Arrow of Light
-C10 - Aquanaut Webelos Pin
-C11 - Artist Webelos Pin
-C12 - Athelete Webelos Pin
-C13 - Citizen Webelos Pin
-C14 - Communicator Webelos Pin
-C15 - Craftsman Webelos Pin
-C16 - Engineer Webelos Pin
-C17 - Family Member Webelos Pin
-C18 - Fitness Webelos Pin
-C19 - Forester Webelos Pin
-C20 - Geologist Webelos Pin
-C21 - Handyman Webelos Pin
-C22 - Naturalist Webelos Pin
-C23 - Outdoorsman Webelos Pin
-C24 - Readyman Webelos Pin
-C25 - Scholar Webelos Pin
-C26 - Scientist Webelos Pin
-C27 - Showman Webelos Pin
-C28 - Sportsman Webelos Pin
-C29 - Traveler Webelos Pin
+* RC - Bobcat
+* RI - Tiger
+* RW - Wolf
+* RB - Bear
+* RR - Webelos
+* RA - Arrow of Light
+* C10 - Aquanaut Webelos Pin
+* C11 - Artist Webelos Pin
+* C12 - Athelete Webelos Pin
+* C13 - Citizen Webelos Pin
+* C14 - Communicator Webelos Pin
+* C15 - Craftsman Webelos Pin
+* C16 - Engineer Webelos Pin
+* C17 - Family Member Webelos Pin
+* C18 - Fitness Webelos Pin
+* C19 - Forester Webelos Pin
+* C20 - Geologist Webelos Pin
+* C21 - Handyman Webelos Pin
+* C22 - Naturalist Webelos Pin
+* C23 - Outdoorsman Webelos Pin
+* C24 - Readyman Webelos Pin
+* C25 - Scholar Webelos Pin
+* C26 - Scientist Webelos Pin
+* C27 - Showman Webelos Pin
+* C28 - Sportsman Webelos Pin
+* C29 - Traveler Webelos Pin
