@@ -18,13 +18,12 @@ Record Type 001
 
 Record Type 010
 ---------------
-    010,2,Unit Type (Troop/Pack),Unit Number (4 digits),Charter Expiration Date (YYYYMM),District,Charter Org Name,Charter Org Address Line 1,,,,Charter Org City,Charter Org State Code,Charter Org Zip,US,Charter Org Area Code,Charter Org Phone 1-3,Charter Org Phone 4-7,,,,,,12,New Charter Expiration Date (YYYYMM), ,,N,N,N,N,1,3,Meeting Time (H:MM),Meeting Place Name,Meeting Place Address,,,,Meeting Place City,Meeting Place State,Meeting Place Zip,US,Meeting Place Area Code,Meeting Place Phone 1-3,Meeting Place Phone 4-7,,,,,,16,0,2,0,18,0,0,0,0,24000,0,27000,0,0,0,2000,53000,
+    010,2,Unit Type (Troop/Pack),Unit Number (4 digits),Charter Expiration Date (YYYYMM),District,Charter Org Name,Charter Org Address Line 1,,,,Charter Org City,Charter Org State Code,Charter Org Zip,US,Charter Org Area Code,Charter Org Phone 1-3,Charter Org Phone 4-7,,,,,,Charter Term (Months),New Charter Expiration Date (YYYYMM), ,,Magazine Bulk Delivery? (Y/N),Leader Trained? (Y/N),100% Boys Life? (Y/N),Quality Unit? (Y/N),Meeting Frequency Code,Meeting Day Code,Meeting Time (H:MM),Meeting Place Name,Meeting Place Address,,,,Meeting Place City,Meeting Place State,Meeting Place Zip,US,Meeting Place Area Code,Meeting Place Phone 1-3,Meeting Place Phone 4-7,,,,,,Paid Adult Count,Transfer Adult Count,Multiple Adult Count,Non-Registered Adult Count,Paid youth count,Transfer youth count,Multiple youth count,Adult Boys Life Count,Yout Boys Life Count,Adult Registration Fee,Adult Transfer Fee,Youth Registration Fee,Youth Transfer Fee,Adult Boys Life Fee,Youth Boys Life Fee,Unit Fee,Total Registration Fee,
 
 Record Type 011 & 012
 ---------------------
     011,Row #,P,SSN,Driver's License #,Driver's License State Code,,First Name,Middle Initial,Last Name,Suffix,Nickname,,,Birthdate(YYYYMMDD),Gender(M/F), ,,Position Code,8,R1,Grade,N,
-
-  012,Row #,2,Y,Street Address Line 1,Street Address Line 2,,,City,State,ZIP,US,area code,phone 1-3,phone 4-7,,,,,,
+    012,Row #,2,Y,Street Address Line 1,Street Address Line 2,,,City,State,ZIP,US,area code,phone 1-3,phone 4-7,,,,,,
 
 Record Type 015 & 016
 ---------------------
@@ -69,3 +68,32 @@ Occupation Type Codes
 =====================
 * 354999 - Protective (Fire/Police)
 * 339999 - Administrative/Clerical
+
+Meeting Frequency Codes
+=======================
+* 1 - Weekly
+* 2 - Bi-Weekly
+* 3 - 1st Week
+* 4 - 2nd Week
+* 5 - 3rd Week
+* 6 - 4th Week
+* 7 - 1st & 2nd Week
+* 8 - 1st & 3rd Week
+* 9 - 1st & 4th Week
+* 10 - 2nd & 3rd Week
+* 11 - 2nd & 4th Week
+* 12 - 3rd & 4th Week
+* 13 - 1st, 2nd, & 3rd Week
+* 14 - 1st, 2nd, & 4th Week
+* 15 - 1st, 3rd, & 4th Week
+* 16 - 2nd, 3rd, & 4th Week
+
+Meeting Day Codes
+=================
+* 1 - Sunday
+* 2 - Monday
+* 3 - Tuesday
+* 4 - Wednesday
+* 5 - Thursday
+* 6 - Friday
+* 7 - Saturday
