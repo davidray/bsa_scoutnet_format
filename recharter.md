@@ -22,7 +22,7 @@ Record Type 010
 
 Record Type 011 & 012
 ---------------------
-    011,Row #,P,SSN,Driver's License #,Driver's License State Code,,First Name,Middle Initial,Last Name,Suffix,Nickname,,,Birthdate(YYYYMMDD),Gender(M/F), ,,Position Code,8,R1,Grade,N,
+    011,Row #,Primary/Multiple/Transfer/Non-Registered (P/M/?/?),SSN,Driver's License #,Driver's License State Code,,First Name,Middle Initial,Last Name,Suffix,Nickname,,,Birthdate(YYYYMMDD),Gender (M/F), ,,Position Code,8,Rank Code,Grade,Boys Life (Y/N),
     012,Row #,2,Y,Street Address Line 1,Street Address Line 2,,,City,State,ZIP,US,area code,phone 1-3,phone 4-7,,,,,,
 
 Record Type 015 & 016
@@ -63,6 +63,17 @@ Position Codes
 * 96 Lone Scout friend and counselor
 * PS ScoutParents
 * AP Tiger Cub adult partners (AP) 
+* M  Scout? Member?
+
+Rank Codes
+==========
+* RN - Scout
+* RT - Tenderfoot
+* R2 - 2nd Class
+* R1 - 1st Class
+* RS - Star
+* RL - Life
+* RE? - Eagle
 
 Occupation Type Codes
 =====================
